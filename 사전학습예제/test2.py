@@ -1,2 +1,2 @@
-a = 'hello'.split()
-print(a.split())
+a = 3
+print(a.imag)
